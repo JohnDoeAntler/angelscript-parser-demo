@@ -6,6 +6,7 @@
     "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\"",
     "lint": "prettier --check \"src/**/*.{js,jsx,ts,tsx}\""
   },
+  "homepage": "https://johndoeantler.github.io/angelscript-parser-demo/",
   "dependencies": {
     "@monaco-editor/react": "^4.2.1",
     "angelscript-parser": "^1.0.0",
