@@ -31,5 +31,6 @@ export default {
   },
   buildOptions: {
     /* ... */
+      baseUrl: "https://johndoeantler.github.io/angelscript-parser-demo/"
   },
 };
