@@ -84,7 +84,7 @@ const App = () => {
       }
     },
     onMount: async (e, m) => {
-      const res = await fetch("/default.as");
+      const res = await fetch("https://johndoeantler.github.io/angelscript-parser-demo/default.as");
       const text = await res.text();
       e.setValue(text);
       setEditor(e);
